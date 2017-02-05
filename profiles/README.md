@@ -5,4 +5,4 @@ All members must create a folder with the username from their mbhs.systems email
 Profile pictures must contain the member in it and cannot be digital. They must also be formatted to be a 300x300 PNG file. Taglines must be 120 characters or less.
 
 Photo filename: `profile.png` <br>
-Tagline filename:`tagline.txt`
+Tagline filename: `tagline.txt`
